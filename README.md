@@ -1,2 +1,2 @@
-# Simple_program_for_storing_Employee_details
-A function to store and display the details of employees .
+# All simple C programs which i used to code from my first year
+
